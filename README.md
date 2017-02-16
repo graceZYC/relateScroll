@@ -10,3 +10,5 @@
 1. 在你的html文件中引入 `relateScroll.js` 
 
 1. 调用函数 `relateScroll( 标签区域id, 内容区域id, 样式名称 );`，完成。
+
+1. [预览戳这里](http://htmlpreview.github.io/?https://github.com/graceZYC/relateScroll/blob/master/demo.html)
